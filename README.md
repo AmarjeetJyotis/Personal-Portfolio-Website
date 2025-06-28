@@ -1,12 +1,12 @@
-# [Built Portfolio With GitHub ](https://github.com/AmarjeetJyotis/Personal-Portfolio-Website.git)
+# 🚀 Amarjeet Kumar – Developer Portfolio
+
+Welcome to the official GitHub repository of my **personal developer portfolio** – a sleek, modern, and fully responsive website built using **Next.js, TailwindCSS**, and other top-notch technologies. It showcases my **projects, skills, certifications**, and more.
+
+🌐 **Live Site**: [amarjeetkr.vercel.app](https://amarjeetkr.vercel.app/)  
+📁 **Source Code**: [GitHub Repository](https://github.com/AmarjeetJyotis/Personal-Portfolio-Website.git)
 
 ---
 
-# Developer Portfolio
-
-#### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
----
 
 # Demo :movie_camera:
 
@@ -71,9 +71,10 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 bash
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<your-username>/Personal-Portfolio-Website.git
 
-cd developer-portfolio
+cd Personal-Portfolio-Website
+
 
 
 ### Install packages from the root directory
@@ -151,22 +152,20 @@ Eg:
 
 javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Amarjeet Kumar",
   profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  designation: "Software Developer | ML Enthusiast",
+  description: "Passionate about building scalable software and contributing to open source.",
+  email: "ak7462514@gmail.com",
+  phone: "+91-9798447398",
+  address: "Mohali, Punjab, India",
+  github: "https://github.com/AmarjeetJyotis",
+  linkedIn: "https://www.linkedin.com/in/amarjeet-jyotish/",
+  leetcode: "https://leetcode.com/u/AmarjeetJyotish/",
+  devUsername: "AmarjeetJyotis",
+  resume: "https://drive.google.com/file/d/1XJjlWq6_fE5E8ra58KoQbukHk7IVzwc8/view",
 };
+
 
 
 devUsername is used for fetching blog posts from dev.to.
@@ -201,7 +200,48 @@ Whenever you push changes to your GitHub repo, Vercel will automatically redeplo
 
 ---
 
-# Tutorials :wrench:
+# 📂 Project:
+🎲 AI Rubik’s Cube Solver
+Computer vision-based solver using OpenCV and Kociemba algorithm.
+
+🫁 Pneumonia Detection (CNN)
+Hybrid CNN + Random Forest model, presented at ICICC-2025 (Springer).
+
+🛣️ Alternative Road Routes
+Simulated traffic-aware pathfinding using Dijkstra in C++/OpenGL.
+
+🛒 Ecomzy – React E-Commerce App
+React + Redux Toolkit-based shopping site with dynamic product APIs.
+
+🎓 Certifications
+IBM DevOps & Software Engineering
+
+Google Cloud Solutions Architect
+
+Google Cybersecurity Certificate
+
+NPTEL IoT (IIT Kharagpur)
+
+Google UX Design
+
+Microsoft Power BI Analyst
+
+📄 View Certificates
+
+🧰 Technical Skills
+Languages: C++, Python, Java, SQL, JS, PHP
+Frameworks: React, Redux, Next.js, OAuth, JWT
+Databases: MySQL, PostgreSQL
+Cloud: AWS
+Tools: Docker, Jenkins, GitHub, Selenium, Postman
+Soft Skills: Leadership, Teamwork, Communication
+
+🌍 Open Source
+Contributed over 1200+ LeetCode & GeeksForGeeks solutions on:
+
+🔗 LeetCode
+
+🔗 GFG Profile
 
 ## Gmail App Password Setup
 
