@@ -14,6 +14,8 @@
 ![image](https://github.com/user-attachments/assets/1c5527f1-380d-4a4a-9117-2a556545f682)
 
 
+https://github.com/user-attachments/assets/af627c44-c11e-453c-b00d-705909d35884
+
 ## View live preview [here](https://amarjeetkr.vercel.app/).
 
 ---
