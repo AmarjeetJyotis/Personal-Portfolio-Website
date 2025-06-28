@@ -1,10 +1,5 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
 
----
-
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/AmarjeetJyotis/Personal-Portfolio-Website.git)
 
 ---
 
@@ -16,9 +11,10 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![image](https://github.com/user-attachments/assets/1c5527f1-380d-4a4a-9117-2a556545f682)
 
-## View live preview [here](https://abusaid.netlify.app/).
+
+## View live preview [here](https://amarjeetkr.vercel.app/).
 
 ---
 
