@@ -236,12 +236,18 @@ Cloud: AWS
 Tools: Docker, Jenkins, GitHub, Selenium, Postman
 Soft Skills: Leadership, Teamwork, Communication
 
-🌍 Open Source
-Contributed over 1200+ LeetCode & GeeksForGeeks solutions on:
+## 🧑‍💻 Author
 
-🔗 LeetCode
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
 
-🔗 GFG Profile
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)
+
 
 ## Gmail App Password Setup
 
