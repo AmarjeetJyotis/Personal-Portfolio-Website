@@ -246,7 +246,10 @@ Soft Skills: Leadership, Teamwork, Communication
 **Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
 **LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
 **GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
-**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
 
 
 ## Gmail App Password Setup
