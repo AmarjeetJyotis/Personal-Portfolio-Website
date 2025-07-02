@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of my **personal developer portfolio** – a sleek, modern, and fully responsive website built using **Next.js, TailwindCSS**, and other top-notch technologies. It showcases my **projects, skills, certifications**, and more.
 
-🌐 **Live Site**: [amarjeetkr.vercel.app](https://amarjeett.vercel.app/)  
+🌐 **Live Site**: [amarjeetkumar](https://amarjeett.vercel.app/)  
 📁 **Source Code**: [GitHub Repository](https://github.com/AmarjeetJyotis/Personal-Portfolio-Website.git)
 
 ---
