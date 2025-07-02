@@ -15,7 +15,7 @@ Welcome to the official GitHub repository of my **personal developer portfolio**
 
 https://github.com/user-attachments/assets/af627c44-c11e-453c-b00d-705909d35884
 
-## View live preview [here](https://amarjeetkr.vercel.app/).
+## View live preview [here](https://amarjeett.vercel.app/).
 
 ---
 
@@ -245,7 +245,7 @@ Soft Skills: Leadership, Teamwork, Communication
 **Department of Computer Science & Engineering**  
 **Chandigarh University**
 
-**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeett.vercel.app/)  
 **LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
 **GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
 **LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
