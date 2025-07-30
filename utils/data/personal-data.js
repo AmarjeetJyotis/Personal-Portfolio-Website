@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Amarjeet Kumar",
   profile: '/profile.png',
-  designation: "Software Developer",
+  designation: "Software Engineer",
   description: `My name is Amarjeet Kumar. I am a professional and enthusiastic frontend developer in my daily life. I am a quick learner with a self-learning attitude. I love to explore new technologies and am passionate about solving problems through clean and efficient code. I enjoy building responsive and dynamic user interfaces. My core skills include JavaScript, React.js, and strong knowledge of Data Structures and Algorithms (DSA). I am available for any kind of job opportunity that suits my skills and interests.`,
   email: 'ak7462514@gmail.com',
   phone: '+91-9798447398',
