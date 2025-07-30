@@ -26,7 +26,7 @@ function HeroSection() {
             Hello, <br />
             I’m {' '}
             <span className=" text-pink-500">{personalData.name}</span>
-            {` . Trust me, I'm a `}
+            {` . I'm a Professional `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
             .
           </h1>
