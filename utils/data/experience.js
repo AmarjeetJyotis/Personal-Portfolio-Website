@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'SDE Intern (Front-End React Developer)',
     company: 'MrProptek',
-    duration: '(August 2025 - Present)',
+    duration: '(June 2025 - Present)',
   },
   {
     id: 2,
